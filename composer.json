@@ -1,5 +1,5 @@
 {
-    "name": "vendor/doctrine-album",
+    "name": "zcms/doctrine-album",
     "description": "doctrine zend skeleton",
     "type": "project",
     "authors": [
