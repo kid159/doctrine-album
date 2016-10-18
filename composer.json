@@ -1,7 +1,7 @@
 {
     "name": "zcms/doctrine-album",
     "description": "doctrine zend skeleton",
-	"version": "1.0.1",
+	"version": "*1.0.1",
     "type": "project",
     "authors": [
         {
@@ -9,5 +9,13 @@
             "email": "thanhtd@egdgroup.com"
         }
     ],
-    "require": {}
+    "require": {
+		"php" : "^5.5 || ^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+		   "Album\\": "src/"
+		},
+		"classmap": ["./Module.php"]
+	}
 }
