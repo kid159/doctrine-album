@@ -1,6 +1,7 @@
 {
     "name": "zcms/doctrine-album",
     "description": "doctrine zend skeleton",
+	"version": "1.0.1",
     "type": "project",
     "authors": [
         {
