@@ -3,6 +3,7 @@
     "description": "doctrine zend skeleton",
 	"version": "*1.0.1",
     "type": "project",
+	"license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Thanh Tran",
