@@ -1,0 +1,12 @@
+{
+    "name": "vendor/doctrine-album",
+    "description": "doctrine zend skeleton",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thanh Tran",
+            "email": "thanhtd@egdgroup.com"
+        }
+    ],
+    "require": {}
+}
